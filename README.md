@@ -1,7 +1,7 @@
-# LeapMotionEscapeRoom
+# Leap Motion Escape Room
 
 ![Screenshot](preview_image.png)
 
-An "escape room" videogame developed in Unity using only the Leap Motion device as input.
-It was my first job on a videogame and above all it is not a videogame developed for commercial purposes but only as a thesis project for my degree in computer science (October 2016-February 2017) and to start working on a videogame.
-There is a demonstration video in "VideoOfGame" folder.
+About the game
+==============
+It is the project I developed for my degree thesis. It is a small "Escape Room" style videogame developed with Unity. The goal was to show a possible use of the Leap Motion device as the only input, so it is a videogame playable entirely with the Leap without using a mouse or keyboard. The aim is to escape from a room by interacting with the objects present in the scenario using Leap Motion.
